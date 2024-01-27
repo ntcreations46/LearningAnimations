@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{30DCF66F-2E58-9C13-8ED6-F906E7BCDBC3}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/animationStateController.cs">
+    <Files>
+      <File FileName="Assets/animationScriptController.cs" Line="24" Column="55" />
+      <File FileName="Assets/animationStateController.cs" Line="37" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Learning Animations" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4af1c093-a8fa-4807-bc57-f36cc0eb2157" />
+</Properties>
